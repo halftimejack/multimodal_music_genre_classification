@@ -1,4 +1,4 @@
-# Multimodal Music Genre Classification: A Symbolic Fusion Study
+# Multimodal Music Genre Classification
 
 **Author:** Jack Blake  
 **Date:** December 2025  
